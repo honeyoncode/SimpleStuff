@@ -17,3 +17,6 @@ Wanna get in touch? Find me on [bluesky](https://bsky.app/profile/honeylake.bsky
 
 ## References
 - Font used throughout the site is Open Sans.
+
+## Repo
+See how the sausage is made. The [Simple Stuff](https://github.com/honeyoncode/SimpleStuff) repo is open for viewing, but closed for contribution (for the time being).
