@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/bundle.css">
+    <title>The Honey Pot</title>
+  </head>
+  <body>
+    <main>
+      <header>
+          <h1>Simple Stuff</h1>
+          <p>A collection of things</p>
+      </header>
+      <section id="sidebar">
+        <nav>
+          <a href="/">Home</a>
+          <a href="/directory">Directory</a>
+          <a href="/recipes">Recipes</a>
+          <a href="/about">About</a>
+        </nav>
+      <section id="content">
+        <section>
+          {{ content | safe }}
+        </section>
+        <footer>
+        </footer>
+      </section>
+    </main>
+  </body>
+</html>

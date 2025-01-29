@@ -1,0 +1,64 @@
+:root {
+    --primary-background: #F4F8FC;
+    --secondary-background: #F3D34A;
+    --tertiary-background: #f8e492;
+    --font-color: #1C1C1C;
+    --link-color: #790808;
+    --highlight-color: #55917F;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-background: #1B2021;
+        --secondary-background: #222;
+        --tertiary-background: #555;
+        --font-color: #eee;
+        --link-color: #55917F;
+        --highlight-color: #F3D34A;
+    }
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/OpenSans-Regular.ttf);
+}
+
+/* Layout styling */
+html {
+    height: 100%;
+}
+
+body {
+    color: var(--font-color);
+    background-color: var(--primary-background);
+    min-height: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+header>p {
+    text-align: center;
+    margin-top:0;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav>a {
+    margin: 5px;
+}

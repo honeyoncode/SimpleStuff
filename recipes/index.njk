@@ -1,0 +1,23 @@
+---
+layout: mainlayout.njk
+---
+
+<h2><img src="/images/icons/bowl2.gif" alt="Bowl of ramen"> Recipes</h2>
+
+<h3>Soups</h3>
+<ul>
+{%- for soup in collections.soup | reverse -%}
+    <li>
+        <a href={{ soup.url }}>{{ soup.data.title }}</a>
+    </li>
+{%- endfor -%}
+</ul>
+
+<h3>Main meals</h3>
+<ul>
+{%- for recipe in collections.recipe | reverse -%}
+    <li>
+        <a href={{ recipe.url }}>{{ recipe.data.title }}</a>
+    </li>
+{%- endfor -%}
+</ul>
