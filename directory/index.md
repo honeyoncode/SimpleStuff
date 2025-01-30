@@ -4,6 +4,9 @@ layout: mainlayout.njk
 
 ## ![Computer](/images/icons/computer10.gif) Directory
 
+### Anti-fascism
+- [Simple Sabotage Field Manual](https://www.gutenberg.org/ebooks/26184?ref=404media.co) - A short book on how everyday people can help resist fascism. In case this source is lost, an HTML version is available [on my site](/simpleSabotageFieldManual) and there is a backup of the [plaintext](https://github.com/honeyoncode/SimpleSabotageFieldManual/blob/main/SimpleSabotageFieldManual.txt) as well.
+
 ### Food, cooking, recipes
 - [Me!](/recipes) - I post recipes here too. These are either recipes of my own creation or recipes I've adapted from elsewhere. Recipes from elsewhere will usually contain the original source.
 - [Just One Cookbook](https://www.justonecookbook.com/) - Really great source of Japanese cooking.
