@@ -27,6 +27,10 @@ layout: mainlayout.njk
 - [itch.io](https://itch.io/) - Indie games, lots for free or cheap.
 - [debug](https://www.teamdebug.com/magazine) - A physical & physical gaming magazine with particular focus on indie games. Releases quarterly.
 
+### Gaming emulation
+- [RetroDECK](https://retrodeck.net/) - Combines lots of different console emulators into one package for the SteamDeck.
+- [EmuDeck](https://www.emudeck.com/) - An alternative emulation collection for the SteamDeck.
+
 ### Music
 - [Bandcamp](https://bandcamp.com/) - Online music store where you directly support the artists. Allows you to download DRM-free .mp3 and .flac files.
 - [Navidrome](https://www.navidrome.org) - A self-hosted music server, the type of thing you'd run on a Raspberry Pi to host the files you just bought on Bandcamp.

@@ -24,5 +24,6 @@ Wanna get in touch? Find me on [bluesky](https://bsky.app/profile/honeylake.bsky
 See how the sausage is made. The [Simple Stuff](https://github.com/honeyoncode/SimpleStuff) repo is open for viewing, but closed for contribution (for the time being).
 
 ## Updates
+- 2025-02-01: Added extra recipes, added "Gaming emulation" to directory.
 - 2025-01-30: Added some sections to the directory. Moved "About" content to the homepage, deleted "About".
 - 2025-01-29: Created the site, published with a few basic recipes and site layout.
