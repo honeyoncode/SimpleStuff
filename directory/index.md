@@ -20,6 +20,7 @@ layout: mainlayout.njk
 ### Fun & miscellaneous
 - [The Useless Web](https://theuselessweb.com/) - Takes you to a random, but fun, website.
 - [Binary Piano](https://binarypiano.com/) - Plays a different note for each binary value. (Warning: Scares my cats for some reason but I find it soothing)
+- [Pokemon Booster Pack Simulator](https://pokemonboosterpack.com) - Open virtual booster packs of the original Pokemon card sets.
 
 ### Gaming & gaming news
 - [Steam](https://store.steampowered.com/) - Games for PC, also sell hardware like the Steam Deck.
@@ -40,6 +41,13 @@ layout: mainlayout.njk
 - [Proton VPN](https://protonvpn.com/) - Another VPN provider that comes highly recommended.
 - [Bitwarden](https://bitwarden.com/) - A secure password manager with a free option for personal use. Also has a mobile app (which you also don't need to pay for)
 - [KeePass](https://keepass.info/) - An open source password manager that is stored locally rather than a remote server like Bitwarden.
+
+### Small web, creating websites, personal blogging
+- [Neocities](https://neocities.org/) - Neocities is a website host with a built-in social media-esque platform. It's full of small websites made by individuals.
+- [Eleventy](https://www.11ty.dev/) - A static site generator that makes creating a personal website much easier, by allowing the use of things like page templates, automatically generating blog post lists, etc.
+- [Wordpress](https://wordpress.com/) - A popular website/blogging platform.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) - Mozilla documentation for HTML, crucial for understanding what each HTML element does.
+- [Codepen](https://codepen.io/) - An online sandbox for HTML, CSS, and JavaScript. Useful for trying things out but also allows the sharing of code snippets. Often used for CSS/JavaScript challenges.
 
 ### Social media
 Alternatives to "the big ones", these are federated instances of cool social media.
